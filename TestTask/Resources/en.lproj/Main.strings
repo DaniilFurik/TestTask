@@ -1,0 +1,33 @@
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "CbX-IY-tEk"; */
+"CbX-IY-tEk.title" = "Settings";
+
+/* Class = "UISegmentedControl"; Dtx-de-9ra.segmentTitles[0] = "Original"; ObjectID = "Dtx-de-9ra"; */
+"Dtx-de-9ra.segmentTitles[0]" = "Original";
+
+/* Class = "UISegmentedControl"; Dtx-de-9ra.segmentTitles[1] = "B/W"; ObjectID = "Dtx-de-9ra"; */
+"Dtx-de-9ra.segmentTitles[1]" = "B/W";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "NJB-nU-R9n"; */
+"NJB-nU-R9n.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Add TableCell"; ObjectID = "P7A-hb-9jg"; */
+"P7A-hb-9jg.normalTitle" = "Add TableCell";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "UHv-Vj-AtU"; */
+"UHv-Vj-AtU.text" = "Title";
+
+/* Class = "UILabel"; text = "Save picture"; ObjectID = "d9t-QI-zYL"; */
+"d9t-QI-zYL.text" = "Save picture";
+
+/* Class = "UILabel"; text = "Choose picture"; ObjectID = "iLD-ms-dBO"; */
+"iLD-ms-dBO.text" = "Choose picture";
+
+/* Class = "UITabBarItem"; title = "Custom Picture"; ObjectID = "kv5-mz-r7z"; */
+"kv5-mz-r7z.title" = "Custom Picture";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "m8B-0f-dsS"; */
+"m8B-0f-dsS.text" = "Detail";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "mkq-1l-ZBR"; */
+"mkq-1l-ZBR.text" = "Detail";

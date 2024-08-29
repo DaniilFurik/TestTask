@@ -1,0 +1,21 @@
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "CbX-IY-tEk"; */
+"CbX-IY-tEk.title" = "Настройки";
+
+/* Class = "UISegmentedControl"; Dtx-de-9ra.segmentTitles[0] = "Original"; ObjectID = "Dtx-de-9ra"; */
+"Dtx-de-9ra.segmentTitles[0]" = "Оригинал";
+
+/* Class = "UISegmentedControl"; Dtx-de-9ra.segmentTitles[1] = "B/W"; ObjectID = "Dtx-de-9ra"; */
+"Dtx-de-9ra.segmentTitles[1]" = "Ч/Б";
+
+/* Class = "UIButton"; normalTitle = "Add TableCell"; ObjectID = "P7A-hb-9jg"; */
+"P7A-hb-9jg.normalTitle" = "Добавить ячейку";
+
+/* Class = "UILabel"; text = "Save picture"; ObjectID = "d9t-QI-zYL"; */
+"d9t-QI-zYL.text" = "Сохранить картинку";
+
+/* Class = "UILabel"; text = "Choose picture"; ObjectID = "iLD-ms-dBO"; */
+"iLD-ms-dBO.text" = "Выбрать картинку";
+
+/* Class = "UITabBarItem"; title = "Custom Picture"; ObjectID = "kv5-mz-r7z"; */
+"kv5-mz-r7z.title" = "Редактирование";

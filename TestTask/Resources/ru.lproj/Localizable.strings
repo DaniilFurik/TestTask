@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  TestTask
+
+  Created by Даниил on 29.08.24.
+  
+*/
+
+"Image saved" = "Картинка сохранена";
+"No access" = "Нет доступа. Перейдите в настройки приложения";
+"To settings" = "В настройки";
+"Close" = "Закрыть";
+"Cancel" = "Отменить";
+"About application" = "О Приложении";
+"Select cell type" = "Выберите тип ячейки";
+"Right Detail" = "Right Detail";
+"Subtitle" = "Subtitle";
+

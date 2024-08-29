@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  TestTask
+
+  Created by Даниил on 29.08.24.
+  
+*/
+
+"Image saved" = "Image saved";
+"No access" = "No access. Go to app settings";
+"To settings" = "To settings";
+"Close" = "Close";
+"Cancel" = "Canсel";
+"About application" = "About application";
+"Select cell type" = "Select cell type";
+"Right Detail" = "Right Detail";
+"Subtitle" = "Subtitle";
